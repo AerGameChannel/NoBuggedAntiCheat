@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoBuggedAntiCheat-WWS", "DisableAntiCheat-WWS\NoBuggedAntiCheat-WWS.csproj", "{36D1A03A-C78B-4F41-8688-222A724752EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36D1A03A-C78B-4F41-8688-222A724752EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D1A03A-C78B-4F41-8688-222A724752EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D1A03A-C78B-4F41-8688-222A724752EE}.Debug|x64.ActiveCfg = Release|x64
+		{36D1A03A-C78B-4F41-8688-222A724752EE}.Debug|x64.Build.0 = Release|x64
+		{36D1A03A-C78B-4F41-8688-222A724752EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D1A03A-C78B-4F41-8688-222A724752EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D1A03A-C78B-4F41-8688-222A724752EE}.Release|x64.ActiveCfg = Release|x64
+		{36D1A03A-C78B-4F41-8688-222A724752EE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F468C05D-A7FA-4BB1-A008-E7E87586B044}
+	EndGlobalSection
+EndGlobal
