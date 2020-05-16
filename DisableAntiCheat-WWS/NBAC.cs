@@ -15,7 +15,7 @@ namespace NBAC
         
         public void OnPlayerHurt(PlayerHurtEvent ev)
         {
-            if (ev.Player.Role == RoleType.Scp106 && ev.DamageType == DamageTypes.Flying || ev.Player.Role == RoleType.Scp173 && ev.DamageType == DamageTypes.Flying)
+            if (ev.DamageType == DamageTypes.Flying)
             {
                 ev.Damage = 0;
             }
